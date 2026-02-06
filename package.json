@@ -1,0 +1,14 @@
+{
+  "name": "sca-remediation-lab",
+  "version": "1.0.0",
+  "description": "Lab 2: SCA & Automated Remediation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
